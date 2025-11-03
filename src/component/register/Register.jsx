@@ -2,7 +2,9 @@ import React from 'react'
 
 const Register = () => {
   return (
-    <div>Regi</div>
+    <div>Regi by s</div>
+    
+ 
   )
 }
 
